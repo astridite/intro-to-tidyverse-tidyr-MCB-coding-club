@@ -6,6 +6,7 @@ A quick introduction to converting wide to long format in R
 
 ## Files: <br>
 `fpkm.csv` contains average FPKM expression data from the resurrection plant *Xerophyta schlechteri* <br>
-`exercise_1.R`contains the code to pivot this data <br>
+`exercise_1.R`contains the code to pivot this data as a .R script <br>
+`exercise_1.ipynb`contains the code to pivot this data as a notebook, for use in Azure <br>
 `data-import.pdf` and `data-transformation.pdf` are RStudio cheatsheets on the subject from https://github.com/rstudio/cheatsheets <br> 
 `Intro_to_tidyr_tidyverse.pptx` is a quick overview of the tidyr package and the difference between long and wide data <br> 
